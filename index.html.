@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+
+<html 
+
+style="font-size: 16px;" lang="en">
+
+<head>
+
+    <title>Home</title>
+
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Home.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+
+</head>
+
+
+  <body 
+  
+  data-home-page="Home.html" data-home-page-title="Home" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="pt">
+  
+
+  <header class="u-clearfix u-header u-header" id="sec-5dd4"><div class="u-clearfix u-sheet u-sheet-1">
+
+        <a href="Home.html" class="u-image u-logo u-image-1" data-image-width="5000" data-image-height="5000" title="Home">
+          <img src="images/23811040-0.png" class="u-logo-image u-logo-image-1">
+        </a>
+
+
+        <h2 class="u-text u-text-default u-text-1">Segunda casa<br>
+          <span style="font-size: 1rem;">Seja a primeira</span>
+        </h2>
+        
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 700;">
+            <a class="u-button-style u-custom-border u-custom-border-color u-custom-borders u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-text-shadow u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"></svg>
+            </a>
+          </div>
+
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-spacing-20 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-1 u-text-grey-90 u-text-hover-palette-2-base" href="Home.html" style="padding: 10px;">HOME</a>
+</li><li class="u-nav-item"><a class="u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-1 u-text-grey-90 u-text-hover-palette-2-base" href="GATOS.html" target="_blank" style="padding: 10px;">GATOS</a>
+</li><li class="u-nav-item"><a class="u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-custom-color-1 u-text-grey-90 u-text-hover-palette-2-base" href="CÃES.html" target="_blank" style="padding: 10px;">CÃES</a>
+</li></ul>
+
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html">HOME</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="GATOS.html" target="_blank">GATOS</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="CÃES.html" target="_blank">CÃES</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+
+      </div> </header>
+
+
+
+    <section class="u-clearfix u-valign-middle u-section-1" id="carousel_27af">
+      <img class="u-expanded-width u-image u-image-default u-image-1" src="images/image12.png" alt="" data-image-width="2480" data-image-height="1230">
+      <h1 class="u-text u-text-white u-text-1">BEM-VINDOS! </h1>
+      <div class="u-container-style u-group u-group-1">
+        <div class="u-container-layout u-container-layout-1">
+          <h2 class="u-text u-text-body-color u-text-2">SOBRE NÓS</h2>
+          <p class="u-text u-text-body-color u-text-3">Somos uma associação familiar que resgata animais sem lar. Situados em Cascais acolhemos  todos os animais com todo o amor e carinho. Temos um espaço verde com imenso espaço para que todos tenham possibilidade para correr e brincar com o maior conforto possível.<br> Pode-nos visitar, basta entrar em contacto conoosco e marcamos a visita para conhecer o teu novo membro da familia. 
+          </p>
+        </div>
+      </div>
+      <img class="u-image u-image-default u-image-2" src="images/image.png" alt="" data-image-width="505" data-image-height="619">
+      <div class="u-custom-color-1 u-expanded-width u-shape u-shape-rectangle u-shape-1"></div>
+      <p class="u-text u-text-4">QUERER ESTAR SEMPRE A PAR DOS NOSSOS MEMBROS DA FAMILIA? SIGA-NOS NAS REDES SOCIAIS </p>
+    </section>
+
+
+    <section class="u-clearfix u-section-2" id="carousel_701c">
+      <p class="u-text u-text-1">Ruby</p>
+      <p class="u-text u-text-2">Mel </p>
+      <img class="u-image u-image-default u-image-1" src="images/image1.png" alt="" data-image-width="408" data-image-height="252">
+      <img class="u-image u-image-default u-image-2" src="images/image2.png" alt="" data-image-width="816" data-image-height="504">
+      <p class="u-text u-text-3">A Ruby é uma cadela querida com toda a sua vida pela frente. Procura uma família que compreenda o compromisso que é cuidar dela por toda a sua longa vida. Tratando-a em todas as fases e momentos da sua vida, com todo o respeito, carinho e cuidados que precise</p>
+      <p class="u-text u-text-4">Sou a Mel, uma cadela muito inteligente e pronta para grandes aventuras. Tenho muita energia mas rapidamente me canso. Sou uma bela companheira, como no sofá tanto nas aventuras do parque. </p>
+      <p class="u-text u-text-5"> Cor: Castanho 
+Porte : Médio 
+Idade : 2 anos </p>
+      <p class="u-text u-text-6">Cor: Preto e Branco 
+Porte : Médio 
+Idade : 1anos </p>
+      <div class="custom-expanded u-align-center u-clearfix u-group-elements u-group-elements-1">
+        <div class="u-custom-color-1 u-expanded u-shape u-shape-rectangle u-shape-2"></div>
+        <img class="u-image u-image-default u-image-3" src="images/image3.png" alt="" data-image-width="2068" data-image-height="980">
+        <p class="u-text u-text-9">Há quem não possa ter um animal em casa, nós percebemos. 
+Mas, na nossa associação pode apadrinhar um animal e ajudar-nos nas despesas e melhor, passar tempo com ele. 
+Os animais precisam de companhia, atenção e carinho. Podes marcar visitas ao nosso local e visitar o teu afilhado/a. 
+Alinhas fazer parte da nossa familia?</p>
+        <p class="u-text u-text-10">
+          <span style="font-size: 2.25rem; font-weight: 700;">APADRINHAR</span>
+         </p>
+      </div>
+      <div class="u-container-style u-custom-color-1 u-expanded-width u-group u-shape-rectangle u-group-2">
+        <div class="u-container-layout u-valign-top u-container-layout-2">
+          <div class="u-clearfix u-group-elements u-group-elements-2">
+            <p class="u-text u-text-11">
+              <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-body-color u-btn-4" href="CÃES.html" target="_blank">CONTACTOS</a>
+            </p>
+            <img class="u-image u-image-default u-image-4" src="images/image4.png" alt="" data-image-width="810" data-image-height="284">
+            <p class="u-text u-text-body-color u-text-default u-text-12">
+              <span style="font-size: 2.25rem; font-weight: 700;">SEGUE-NOS</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size: 2.25rem; font-weight: 700;">ADOTA -ME</span>&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="font-size: 1.5rem;">info@adota-me.pt&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+ 351 213 456 789</span>
+            </p>
+            <img class="u-image u-image-default u-preserve-proportions u-image-5" src="images/image5.png" alt="" data-image-width="210" data-image-height="51">
+            <p class="u-text u-text-body-color u-text-13">R. Bem Lembrados 2-4, 2750-642 Cascais</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-1f35"></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <span>Mafalda Solnado</span>
+          </section>
+
+</body>
+
+</html>
